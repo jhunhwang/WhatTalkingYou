@@ -1,3 +1,14 @@
+# WhatTalkingYou (NUS Hack & Roll 2021)
+
+A real-time chatroom that's supposed translate everything inside into the language you've selected (but only manages to translate English to Chinese and vice-versa because it's built by two data scientists that only learnt web-dev yesterday...)
+
+You can view the website here: 
+https://whattalkingyou-851b5.web.app/
+
+# Team Members
+- Soon Kang Le, Conrad
+- Hwang Jihun
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
